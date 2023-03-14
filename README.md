@@ -13,5 +13,5 @@ An easy way to add a Thompson tetrahedron to your images
 	- output: TT.png
 
 - 3. open concatenate.py, then put produced TT in your desired picture. 
-	- input: your desired picture & TT.png
+	- input: your desired picture (here pic1.png) & TT.png
 	- output: final.png
